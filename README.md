@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiadi-max&label=Profile views&color=0e75b6&style=flat" alt="xiadi-max" /> </p>
-
 - 📫 How to reach me **1409426021@qq.com**
 
 <h3 align="left">Connect with me:</h3>
