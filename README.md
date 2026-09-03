@@ -1,4 +1,4 @@
-# Hi 👋, I'm xiadi-max
+# Hi 👋, I'm xiadi
 
 ### A passionate developer from around the world
 
